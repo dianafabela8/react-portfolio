@@ -9,7 +9,7 @@ function About() {
         Hello, my name is Diana Fabela. I enjoy learning about Software Development both front and backend.
         </p>
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+        My journey into the world of coding began as a curiosity and has transformed into a passion for crafting digital solutions and pushing the boundaries of what technology can achieve.
         </p>
       </div>
     </section>

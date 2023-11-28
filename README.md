@@ -1,5 +1,5 @@
 # React Portfolio
 
 ## Description
-Created a website for my portfolio with Advanced CSS styles and html
 
+Created a portfolio using new React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies.

@@ -3,38 +3,25 @@ import Project from "../Project";
 
 function Portfolio() {
 
-  // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surfReport',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'weatherDashboard',
+      description: 'Weather Dashbord',
+      link: "https://dianafabela8.github.io/weather-dashboard/",
+      repo: "https://github.com/dianafabela8/weather-dashboard"
     },
     {
-      name: 'pastelPuzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'workdayScheduler',
+      description: 'Workday Scheduler',
+      link: "https://dianafabela8.github.io/work-day-scheduler/",
+      repo: "https://github.com/dianafabela8/work-day-scheduler"
     },
     {
-      name: 'runBuddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'ledWall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
+      name: 'noteTaker',
+      description: 'Note Taker',
+      link: "https://notetaker-df-aedb61e4e9dd.herokuapp.com",
+      repo: "https://github.com/dianafabela8/note-taker"
+    }
   ]);
 
   return (
